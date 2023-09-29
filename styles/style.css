@@ -310,6 +310,10 @@
 
 @media (768px > width >= 375px) {
 
+  .header {
+    padding-block-end: 20px;
+  }
+
   .header__title {
     margin: 0;
     font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
@@ -322,7 +326,7 @@
   .content-section {
     display: flex;
     flex-direction: column;
-    padding-block: 10px;
+    padding-block: 30px;
     }
 
   .card-section {
@@ -337,6 +341,6 @@
 
   .footer__title {
     font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
-    padding-block-start: 25px;
+    
   }
 }
