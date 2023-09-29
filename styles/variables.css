@@ -4,36 +4,12 @@
 */
 :root {
   --background-image: url('../images/cover-image-dark.png');
-}
-
-:root {
   --background-color: #000028;
-}
-
-:root {
   --page__title-color: #DB00FF;
-}
-
-:root {
   --page__title-shadow: #FF0070;
-}
-
-:root {
   --accent-color: #FF0070;
-}
-
-:root {
   --card-title-color: var(--accent-color);
-}
-
-:root {
   --paragraph-title-color: var(--background-color);
-}
-
-:root {
   --paragraph-color: #F1B2CE;
-}
-
-:root {
   --hover-button: rgba(255, 0, 112, 0.40);
 }
