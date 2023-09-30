@@ -12,5 +12,5 @@
   --paragraph-title-color: var(--background-color);
   --paragraph-color: #F1B2CE;
   --hover-button: rgba(255, 0, 112, 0.40);
-  --page__title-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem); 
+  --page__title-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
 }
